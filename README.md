@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **andrevictor.godeiro@gmail.com**
 
-- ⚡ Fun fact **i have a bachelor in law and i'm a lawyer.**
+- ⚡ Fun fact:**i have a bachelor in law and i'm a lawyer.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
