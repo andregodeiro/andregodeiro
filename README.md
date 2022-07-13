@@ -1,5 +1,6 @@
 <h1 align="center">Hello, world! I'm André Godeiro</h1>
-- 🔭 I’m studying on **DEVinHouse**
+
+- 🔭 I’m studying at **DEVinHouse**
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript and React.**
 
