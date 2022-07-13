@@ -1,4 +1,4 @@
-<h1 align="center">Hello, world! I'm André Godeiro</h1>
+<h1 align="center"> 🔹Hello, world! I'm André Godeiro 🔹</h1>
 
 - 🔭 I’m studying at **DEVinHouse**
 
