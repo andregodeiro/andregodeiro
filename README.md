@@ -2,7 +2,7 @@
 
 - 🔭 I’m studying at **DEVinHouse**
 
-- 💬 Ask me about **React, Vue, Node and Nest**
+- 💬 Ask me about **React, Vue, Node and Nest.**
 
 - 📫 How to reach me: **andrevictor.godeiro@gmail.com**
 
